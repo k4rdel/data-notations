@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <transport power="120HP" color="white">Car</transport>
+    <transport power="30HP" color="green">Motorcycle</transport>
+    <transport power="1200HP" color="yellow">Airplane</transport>
+    <transport power="0HP" color="red">Bike</transport>
+</transports>

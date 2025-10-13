@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Louis Vuitton",
+        "founded": 1854,
+        "headquarters": "Paris, France",
+        "employees": 19000,
+        "products": [
+            "Casual Wear",
+            "Bags",
+            "Wallets"
+        ]
+    },
+    {
+        "name": "Stüssy",
+        "founded": 1980,
+        "headquarters": "Irvine, California, U.S.",
+        "employees": 10000,
+        "products": [
+            "Hoodies",
+            "Shirts",
+            "Skateboards"
+        ]
     }
 ]

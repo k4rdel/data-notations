@@ -1,0 +1,15 @@
+[
+    {
+        "nameOfPassenger": "Joe Brown",
+        "from": "Paric",
+        "to": "London",
+        "date": "12 May",
+        "depature": "14:30",
+        "arrive": "16:50",
+        "priceInEuro": 45,
+        "trainNumber": 3924,
+        "seat": "A18",
+        "numberOfTicket": 404592963153,
+        "isEconomyClass": true
+    }
+]
